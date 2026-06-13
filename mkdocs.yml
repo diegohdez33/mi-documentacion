@@ -1,0 +1,15 @@
+site_name: Mi Documentacion
+
+theme:
+  name: material
+  language: es
+
+nav:
+  - Inicio: index.md
+  - Acerca de: acerca.md
+  - Guía: guia.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed:
+      alternate_style: true
