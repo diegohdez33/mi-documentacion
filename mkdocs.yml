@@ -10,6 +10,7 @@ nav:
   - Guía: guia.md
 
 markdown_extensions:
+  - tables
   - admonition
   - pymdownx.tabbed:
       alternate_style: true
