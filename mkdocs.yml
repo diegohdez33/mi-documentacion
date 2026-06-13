@@ -12,5 +12,7 @@ nav:
 markdown_extensions:
   - tables
   - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight
   - pymdownx.tabbed:
       alternate_style: true
